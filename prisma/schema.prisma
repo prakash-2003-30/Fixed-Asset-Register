@@ -1,0 +1,102 @@
+// Fixed Asset Register — Prisma schema
+// Models derived directly from the structure of 1__FA_register.xlsx
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+enum Role {
+  ADMIN
+  EDITOR
+  VIEWER
+}
+
+enum AuditAction {
+  CREATE
+  UPDATE
+  DELETE
+  LOGIN
+  IMPORT
+}
+
+model User {
+  id        String     @id @default(auto()) @map("_id") @db.ObjectId
+  name      String
+  email     String     @unique
+  password  String // bcrypt hash
+  role      Role       @default(VIEWER)
+  active    Boolean    @default(true)
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+  auditLogs AuditLog[]
+
+  @@map("users")
+}
+
+// One row of the Fixed Asset Register. Column names mirror the Excel headers.
+model Asset {
+  id                       String   @id @default(auto()) @map("_id") @db.ObjectId
+  seq                      Int      @default(0) // insertion order — preserves the source row sequence
+  assetId                  String? // "Asset ID"            e.g. A-01
+  description              String? // "Asset Description"
+  category                 String? // "Category"
+  purchaseDate             String? // "Purchase Date" (kept as text — source mixes formats)
+  vendor                   String? // "Vendor"
+  cost                     String? // "Cost (₹ / $)" — stored as text to preserve values exactly (e.g. "25,000", "Complimendary")
+  location                 String? // "Location"
+  expectedLife             Float? // "Expected Life (Years)"
+  depreciationMethod       String? // "Depreciation Method"
+  accumulatedDepreciation  Float? // "Accumulated Depreciation"
+  bookValue                Float? // "Book Value"
+  serialNumber             String? // "Serial Number / Tag"
+  assignedTo               String? // "Assigned To"
+  complaints               String? // "Complaints / Recover Date"
+  remarks                  String? // "Remarks" (also drives status)
+  status                   String   @default("In use") // derived/normalised from remarks
+
+  createdById String?
+  updatedById String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([seq])
+  @@index([category])
+  @@index([location])
+  @@index([vendor])
+  @@index([status])
+  @@map("assets")
+}
+
+// Vendors available in the "Add New Asset" form's Vendor dropdown. Seeded from
+// the curated allowlist; users can add new ones via the form's "+" button.
+model Vendor {
+  id        String   @id @default(auto()) @map("_id") @db.ObjectId
+  name      String   @unique
+  createdAt DateTime @default(now())
+
+  @@map("vendors")
+}
+
+model AuditLog {
+  id        String      @id @default(auto()) @map("_id") @db.ObjectId
+  action    AuditAction
+  entity    String // "Asset" | "User" | "Auth"
+  entityId  String?
+  summary   String // human-readable description
+  changes   Json? // { field: { from, to } }
+  userId    String?     @db.ObjectId
+  userName  String? // denormalised so logs survive user deletion
+  createdAt DateTime    @default(now())
+
+  user User? @relation(fields: [userId], references: [id], onDelete: SetNull)
+
+  @@index([entity])
+  @@index([action])
+  @@index([createdAt])
+  @@map("audit_logs")
+}

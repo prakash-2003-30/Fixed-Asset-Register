@@ -1,0 +1,1743 @@
+FIXED ASSET REGISTER — ASSETS GROUPED BY EMPLOYEE
+Generated from the live database
+Employees: 46 (+ Unassigned)   |   Total assets: 124
+--------------------------------------------------
+Employee: Admin Dept
+Total Assets: 33
+
+1.
+Asset ID: AA-30
+Asset Name: Keyboard (11)
+Category: Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Jk Infotech
+Cost: 1,200
+Location: Regional Office
+Serial Number: Not Use
+Remarks: -
+Status: Damaged
+
+2.
+Asset ID: AB-31
+Asset Name: Lenovo Laptop/Dell Laptop
+Category: Laptop/Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Lenovo india
+Cost: 1,000
+Location: Regional Office
+Serial Number: Not Use
+Remarks: -
+Status: Damaged
+
+3.
+Asset ID: AC-32
+Asset Name: Moniter(3)
+Category: Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Mac India
+Cost: 1,500
+Location: Regional Office
+Serial Number: Not Use
+Remarks: -
+Status: Damaged
+
+4.
+Asset ID: AF-35
+Asset Name: Mouse (7)
+Category: Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Jk Infotech
+Cost: 200
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: Damaged
+
+5.
+Asset ID: AG-36
+Asset Name: Headset (26)
+Category: Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Jk Infotech
+Cost: 900
+Location: Regional Office
+Serial Number: Not Use
+Remarks: -
+Status: Damaged
+
+6.
+Asset ID: AI-38
+Asset Name: Android Phone
+Category: Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Vivo
+Cost: 15,000
+Location: Regional Office
+Serial Number: IPV4 192.0.0.2
+Remarks: -
+Status: In Use
+
+7.
+Asset ID: AK-40
+Asset Name: LED TV (1)
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Zebronics
+Cost: 18,500
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+8.
+Asset ID: AL-41
+Asset Name: Web Camera (1)
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Zebronics
+Cost: 559
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+9.
+Asset ID: AO-44
+Asset Name: AC(1)
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Panasonic
+Cost: 45,000
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+10.
+Asset ID: AP-45
+Asset Name: Internet Spliter Box(1)
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 550
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+11.
+Asset ID: AQ-46
+Asset Name: UPS (1)
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Amaze
+Cost: 30,000
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+12.
+Asset ID: AR-47
+Asset Name: Water Purifier
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Vst Marketing
+Cost: 26,000
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+13.
+Asset ID: AS-48
+Asset Name: Partyspeaker
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 500
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+14.
+Asset ID: AT-49
+Asset Name: Cromptonceling Fan (8)
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: V.M Electricals
+Cost: 18,450
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+15.
+Asset ID: AU-50
+Asset Name: Lan Wire
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 1,000
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: Not In Use
+
+16.
+Asset ID: AV-51
+Asset Name: Punching Machine(1)
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 100
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+17.
+Asset ID: BA-56
+Asset Name: Tester(1)
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 50
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+18.
+Asset ID: BK-72
+Asset Name: Rolling Chair (11)
+Category: Steel
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 6,000
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+19.
+Asset ID: BK-72
+Asset Name: Rolling Chair
+Category: Stainless Steel
+Purchase Date: 18-Dec-2025
+Vendor: Deepam Furniture
+Cost: 7,400
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+20.
+Asset ID: BL-73
+Asset Name: Wire Chair (6)
+Category: Steel
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 1,200
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+21.
+Asset ID: BM-74
+Asset Name: Liver File (3)
+Category: File
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 600
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+22.
+Asset ID: BN-75
+Asset Name: Gas Stove (1)
+Category: Kitchen Item
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 1,695
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+23.
+Asset ID: BO-76
+Asset Name: Cylinder (1)
+Category: Kitchen Item
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 200
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+24.
+Asset ID: BU-81
+Asset Name: Lan Phone
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 2,000
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+25.
+Asset ID: BV-82
+Asset Name: CPU
+Category: Hardware
+Purchase Date: 31-Mar-2025
+Vendor: no
+Cost: -
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: Working Slowly
+Status: Not In Use
+
+26.
+Asset ID: BW-83
+Asset Name: CPU(3)
+Category: Hardware
+Purchase Date: 31-Mar-25
+Vendor: No
+Cost: -
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: Working Good
+Status: Not In Use
+
+27.
+Asset ID: BX-84
+Asset Name: Moniter(3)
+Category: Hardware
+Purchase Date: 31-mar-25
+Vendor: NO
+Cost: -
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: Working Good
+Status: Not In Use
+
+28.
+Asset ID: BY-85
+Asset Name: Dining Taple(8)
+Category: Steel
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 14,400
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+29.
+Asset ID: CA-01
+Asset Name: AC(2)
+Category: Electrical Hardware
+Purchase Date: 13-Mar-2026
+Vendor: Shafeeq Electronics
+Cost: 72,000
+Location: New office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+30.
+Asset ID: CG-07
+Asset Name: Extense Board (2)
+Category: Electrical Hardware
+Purchase Date: 31-Mar-25
+Vendor: V.M Electricals
+Cost: 4,800
+Location: New office
+Serial Number: Not Serial Number
+Remarks: Using 2 and standby 8
+Status: In Use
+
+31.
+Asset ID: CH-08
+Asset Name: New Rolling Chair(29)
+Category: Office Chair
+Purchase Date: 23-Feb-2026
+Vendor: Rasi System
+Cost: 3,600
+Location: New office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+32.
+Asset ID: CN-14
+Asset Name: Finger Headset (Stand By)
+Category: Electrical Hardware
+Purchase Date: 20-Mar-2026
+Vendor: KB System
+Cost: 1,450
+Location: New office
+Serial Number: Not Serial Number
+Remarks: Using In Kartheeswari Paramasivam
+Status: In Use
+
+33.
+Asset ID: F-19
+Asset Name: Government Laptop
+Category: Laptop/Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Lenovo india
+Cost: 1,500
+Location: New Office
+Serial Number: -
+Remarks: -
+Status: Not In Use
+
+--------------------------------------------------
+
+Employee: Ajithkumar Subbaih
+Total Assets: 1
+
+1.
+Asset ID: A-09
+Asset Name: Dell Desktop
+Specification: 16GB
+Category: Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Dell India
+Cost: 25,000
+Location: New Office
+Serial Number: 46A3B936-D47C-49EA-9513-C0492C5DA5AB
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Akilarasan Poothathan
+Total Assets: 1
+
+1.
+Asset ID: F-15
+Asset Name: HP Laptop
+Specification: 16GB
+Category: Hardware
+Purchase Date: 19-Nov-2025
+Vendor: Dell India
+Cost: 25,000
+Location: New Office
+Serial Number: 2F856764-D579-47A6-9C27-2B8E24EC07B4
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: All Employess (New Office)
+Total Assets: 2
+
+1.
+Asset ID: CL-12
+Asset Name: Office Table(04)
+Category: Wood
+Purchase Date: 23-Feb-2026
+Vendor: Rasi System
+Cost: -
+Location: New office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+2.
+Asset ID: CM-13
+Asset Name: Ups (2)
+Category: Electrical Hardware
+Purchase Date: 13-Mar-2026
+Vendor: Sri Mathi  Traders
+Cost: 1,02,500
+Location: New office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Confernce Room
+Total Assets: 1
+
+1.
+Asset ID: BG-62
+Asset Name: Cushion Sofa Set
+Category: Furniture
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 24,000
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Govindaraj Paramasivam
+Total Assets: 1
+
+1.
+Asset ID: F-12,A-12
+Asset Name: Moniter(Zep)/Dell Laptop
+Specification: 8GB
+Category: Laptop/Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Dell India
+Cost: 24,000
+Location: New Office
+Serial Number: 7D1349C4-C1B2-4499-A532-4217FE717208
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: HIKE TEAM
+Total Assets: 1
+
+1.
+Asset ID: F-31
+Asset Name: Thikpad Laptop
+Specification: 16GB
+Category: Laptop/Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Thinkpad India
+Cost: 20,000
+Location: New Office
+Serial Number: -
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Jayasri Vairamuthu
+Total Assets: 1
+
+1.
+Asset ID: F-29
+Asset Name: Thikpad Laptop
+Specification: 16GB
+Category: Hardware
+Purchase Date: 16-Feb-2026
+Vendor: Dell India
+Cost: 25,000
+Location: New Office
+Serial Number: 9CF5E1C5-F475-4295-B80D-7244A61113D4
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: kanagavel Balasubramaniyan
+Total Assets: 1
+
+1.
+Asset ID: F-21
+Asset Name: Thinkpad Laptop
+Specification: 16GB
+Category: Laptop/Hardware
+Purchase Date: 23-Oct-2025
+Vendor: KB System
+Cost: 23,010
+Location: New Office
+Serial Number: -
+Remarks: Not working for Dell laptop so change the  new laptop
+Status: Unknown
+
+--------------------------------------------------
+
+Employee: Kartheeswari Paramasivam
+Total Assets: 1
+
+1.
+Asset ID: A-01
+Asset Name: Dell Desktop
+Specification: 16GB
+Category: Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Dell India
+Cost: 25,000
+Location: New Office
+Serial Number: 45FFAB68-BE85-4905-B87E-7208964E707F
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Karthikeyan Kalasamy
+Total Assets: 1
+
+1.
+Asset ID: F-17
+Asset Name: HP Laptop 16GB/HP Headset
+Category: Laptop/Hardware
+Purchase Date: 31-Mar-2025
+Vendor: HP India
+Cost: 22,500
+Location: New Office
+Serial Number: B99E37CA-582B-4777-A0AE-65E454FFDFC7
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Kitchen Item
+Total Assets: 1
+
+1.
+Asset ID: BP-77
+Asset Name: 50 Liter Blue water can (2)
+Category: Kitchen Item
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 600
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: Not In Use
+
+--------------------------------------------------
+
+Employee: Manikandan Pechimuthu
+Total Assets: 1
+
+1.
+Asset ID: F-06
+Asset Name: Dell Laptop
+Specification: 8GB
+Category: Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Dell India
+Cost: 23,000
+Location: New Office
+Serial Number: F2A5673F-3565-4708-A23C-011695AE6BDA
+Remarks: Headset One Side Not working so Change the New Headset
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Marieshwari,Ramkumar,
+Total Assets: 1
+
+1.
+Asset ID: BD-59
+Asset Name: Wifi adaptor (2)
+Category: Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Jk Infotech
+Cost: 900
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Marieswari Kandhasamy
+Total Assets: 1
+
+1.
+Asset ID: A-30
+Asset Name: Dell Desktop
+Specification: 8GB
+Category: Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Dell India
+Cost: 25,000
+Location: New Office
+Serial Number: -
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Muthumani Sabapathi
+Total Assets: 1
+
+1.
+Asset ID: F-04/A-04
+Asset Name: Moniter/Dell Lap
+Specification: 16GB
+Category: Laptop / Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Dell India
+Cost: 23,000
+Location: New Office
+Serial Number: D9E1AB92-4308-4A4A-AFF1-D6A1BC16C000
+Remarks: Not Charger then Purchasing Charger date(29-Jul-2025)
+Status: In Use
+
+--------------------------------------------------
+
+Employee: New Office
+Total Assets: 7
+
+1.
+Asset ID: CB-02
+Asset Name: Tube Light(2)
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: V.M Electricals
+Cost: 300
+Location: New office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+2.
+Asset ID: CC-03
+Asset Name: Crompton Fan(5)
+Category: Electrical Hardware
+Purchase Date: 19-Mar-2025
+Vendor: V.M Electricals
+Cost: 10,250
+Location: New office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+3.
+Asset ID: CD-04
+Asset Name: WIFI Router(3)
+Category: WIFI
+Purchase Date: 31-Mar-2025
+Vendor: Railware,BSNL
+Cost: 2,000
+Location: New office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+4.
+Asset ID: CF-06
+Asset Name: 9 W LED Bulb(2)
+Category: Electrical Hardware
+Purchase Date: 19-Jun-2025
+Vendor: V.M Electricals
+Cost: 200
+Location: New office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+5.
+Asset ID: CI-09
+Asset Name: Water Purifier (1)
+Category: Electrical Hardware
+Purchase Date: 31-Jul-2025
+Vendor: VST Marketting
+Cost: 9,000
+Location: New office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+6.
+Asset ID: CO-15
+Asset Name: Phillips Sealing Light
+Category: Electrical Hardware
+Purchase Date: 20-Oct-2026
+Vendor: Rasi System
+Cost: -
+Location: New office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+7.
+Asset ID: CP-16
+Asset Name: 9 W LED Bulb(3)
+Category: Electrical Hardware
+Purchase Date: 14-Mar-2026
+Vendor: V.M Electricals
+Cost: 300
+Location: New office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: No
+Total Assets: 1
+
+1.
+Asset ID: AW-52
+Asset Name: Rechargeble Battery (1)
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Panasonic
+Cost: 100
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: Not In Use
+
+--------------------------------------------------
+
+Employee: office
+Total Assets: 1
+
+1.
+Asset ID: AZ-55
+Asset Name: 9 W Bulb(3)
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: V.M Electricals
+Cost: 200
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Office
+Total Assets: 1
+
+1.
+Asset ID: CK-11
+Asset Name: CAMERA
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: NO
+Cost: 1,000
+Location: New office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Office.
+Total Assets: 1
+
+1.
+Asset ID: BI-70
+Asset Name: Plastic Chair (22)
+Category: Plasic
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 7,150
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Pandiyaraj Govindaraj
+Total Assets: 2
+
+1.
+Asset ID: D-16
+Asset Name: Finger Headset
+Category: Hardware
+Purchase Date: 27-May-2026
+Vendor: KB System
+Cost: 1,250
+Location: New Office
+Serial Number: -
+Remarks: Old Headset Not working So New Headset Given
+Status: In Use
+
+2.
+Asset ID: F-16
+Asset Name: Dell Laptop 16GB/Zep Headset
+Category: Laptop/Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Dell India
+Cost: 23,000
+Location: New Office
+Serial Number: 7BA5AD83-4515-47E5-BDD6-B006FC53F500
+Remarks: Laptop Battery Complient CHange the Battery(25-05-2026)
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Ponnumani G
+Total Assets: 1
+
+1.
+Asset ID: AD-33
+Asset Name: Lenovo Tap
+Category: Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Lenovo india
+Cost: 13,000
+Location: Regional Office
+Serial Number: -
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Ponnumani Gurusamy
+Total Assets: 1
+
+1.
+Asset ID: F-26
+Asset Name: Thinkpad/Dell Laptop/Finger Headset/Moniter
+Category: Laptop/Hardware
+Purchase Date: 31-Mar-2025
+Vendor: India
+Cost: 41,600
+Location: New Office
+Serial Number: -
+Remarks: Need One Headset
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Ponnuthai Rakkapan
+Total Assets: 1
+
+1.
+Asset ID: F-14
+Asset Name: Dell Laptop
+Specification: 16GB
+Category: Laptop/Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Dell India
+Cost: 22,500
+Location: New Office
+Serial Number: 5C713BBD-90BD-4D83-A885-64257DB71C2F
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Ponsridhar Ponnuchamy
+Total Assets: 1
+
+1.
+Asset ID: F-05
+Asset Name: HP Laptop
+Specification: 16GB
+Category: Hardware
+Purchase Date: 11-Nov-2025
+Vendor: Dell India
+Cost: 25,000
+Location: New Office
+Serial Number: C7DFE475-C2F6-4C87-B6E1-2E6387654A38
+Remarks: Cpu complaint so stand by laptop give the Ponsrithar
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Ponsrithar
+Total Assets: 1
+
+1.
+Asset ID: BE-60
+Asset Name: Wifi adaptor
+Category: Hardware
+Purchase Date: 19-Nov-2025
+Vendor: KB System
+Cost: 600
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: Ramkumarneed for wifi adaptor so buying adaptor
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Rajarajeshwari Sundharamoorthi
+Total Assets: 1
+
+1.
+Asset ID: F-13
+Asset Name: Thikpad Laptop
+Specification: 16GB
+Category: Hardware
+Purchase Date: 16-Feb-2026
+Vendor: KB System
+Cost: 25,000
+Location: New Office
+Serial Number: 946CFB32-680E-4C75-9CC0-D3F4A9D34B4B
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Rajkumar Shanmugavel
+Total Assets: 1
+
+1.
+Asset ID: F-18
+Asset Name: Dell Laptop
+Specification: 8GB
+Category: Laptop/Hardware
+Purchase Date: 15-Jul-2025
+Vendor: KB System
+Cost: 22,500
+Location: New Office
+Serial Number: 2B10F562-EAFB-4CF1-8706-EC89D6E81074
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Ramasubramaniyan Puthiyaraj
+Total Assets: 1
+
+1.
+Asset ID: F-11 A-11
+Asset Name: Moniter/HP Laptop
+Specification: 16GB
+Category: /Hardware
+Purchase Date: 31-Mar-2025
+Vendor: HP India
+Cost: 22,500
+Location: New Office
+Serial Number: 7688840F-15AD-4A52-8E87-3254E6A3BD8B
+Remarks: Headset Not working so Change the New Headset
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Ramkumar Ramar
+Total Assets: 1
+
+1.
+Asset ID: A-08
+Asset Name: Dell Desktop 16GB/Oodvj Headset
+Category: Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Dell India
+Cost: 25,000
+Location: New Office
+Serial Number: 7C49237F-DB86-4592-92A4-ACF3A64CCC36
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Sankar Kantharaj
+Total Assets: 1
+
+1.
+Asset ID: F-20
+Asset Name: Mac Book 16GB/Hp Headset
+Category: Laptop/Hardware
+Purchase Date: 29-Dec-2024
+Vendor: KB System
+Cost: -
+Location: New Office
+Serial Number: LM4YQ6GJ66
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Santhanam Gurusamyia Pillai
+Total Assets: 1
+
+1.
+Asset ID: F-27
+Asset Name: Dell Laptop 16GB/Moniter
+Category: Laptop/Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Dell India
+Cost: 30,000
+Location: New Office
+Serial Number: HA90231323
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: saravanakumar Palanisamy
+Total Assets: 1
+
+1.
+Asset ID: F-03
+Asset Name: HP Laptop
+Specification: 16GB
+Category: Hardware
+Purchase Date: 26-Jan-2026
+Vendor: KB System
+Cost: 25,370
+Location: New Office
+Serial Number: HP PROBOOK CI5/16/256/W11
+Remarks: Headset Not working so Change the New Headset
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Sathish G
+Total Assets: 1
+
+1.
+Asset ID: F-25
+Asset Name: HP Laptop 16GB/HP Laptop
+Category: Laptop/Hardware
+Purchase Date: -
+Vendor: KB System
+Cost: -
+Location: -
+Serial Number: -
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Sathish Ganesan
+Total Assets: 1
+
+1.
+Asset ID: F-25
+Asset Name: Dell Laptop 16GB/Zep Headset/Thinkpad Laptop
+Category: Laptop/Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Dell India
+Cost: 22,500
+Location: New Office
+Serial Number: 61D63FFD-F111-4CA1-994C-C2FED0438605
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Sathishkumar Sankilikalai
+Total Assets: 1
+
+1.
+Asset ID: F-10
+Asset Name: Thinkpad Laptop
+Specification: 16GB
+Category: Hardware
+Purchase Date: 16-Feb-2026
+Vendor: Dell India
+Cost: 25,000
+Location: New Office
+Serial Number: 68004402-DEC5-4041-A9C8-9B0C3D1AAEEB
+Remarks: Not working headset so buying new headset
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Sivaprakash
+Total Assets: 7
+
+1.
+Asset ID: AE-34
+Asset Name: Lenovo Tap M10
+Category: Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Lenovo india
+Cost: 15,000
+Location: Regional Office
+Serial Number: 04:34:f6:ac:cb:29
+Remarks: -
+Status: In Use
+
+2.
+Asset ID: AH-37
+Asset Name: HP Printer (1)
+Category: Hardware
+Purchase Date: 31-Mar-2025
+Vendor: HP India
+Cost: 15,696
+Location: Regional Office
+Serial Number: CNKRNDCJY9
+Remarks: -
+Status: In Use
+
+3.
+Asset ID: AJ-39
+Asset Name: 64 GB pendrive(3)
+Category: Hardware
+Purchase Date: 31-Mar-2025
+Vendor: HP India
+Cost: 1,050
+Location: Regional Office
+Serial Number: NGA64G-64
+Remarks: -
+Status: In Use
+
+4.
+Asset ID: BB-57
+Asset Name: Bluetooth Device (2)
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 250
+Location: Regional Office
+Serial Number: 2AXJ4UB400
+Remarks: -
+Status: In Use
+
+5.
+Asset ID: BC-58
+Asset Name: Bluetooth Device (1)
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 250
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+6.
+Asset ID: BF-61
+Asset Name: Wifi adaptor
+Category: Hardware
+Purchase Date: 19-Nov-2025
+Vendor: KB System
+Cost: 600
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+7.
+Asset ID: CJ-10
+Asset Name: Crompton Fan(1)
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: -
+Location: New office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Sivaprakash Puthiyaraj
+Total Assets: 1
+
+1.
+Asset ID: A-02
+Asset Name: Dell Desktop
+Specification: 16GB
+Category: Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Dell India
+Cost: 25,000
+Location: New Office
+Serial Number: 5BDD81CC-83F6-4207-8AD5-425990D8009D
+Remarks: HP Headset Not working so new headset buying
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Sivaprakash,kartheeswari,Santhanam
+Total Assets: 1
+
+1.
+Asset ID: BJ-71
+Asset Name: Office Table (5)
+Category: Wodden
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 30,995
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Sundharalakshmanan Saravanan
+Total Assets: 1
+
+1.
+Asset ID: F-07
+Asset Name: Dell Laptop
+Specification: 16GB
+Category: Laptop /Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Dell India
+Cost: 22,500
+Location: New Office
+Serial Number: AB3C53B7-B1C8-499A-8D1F-66D3BF463011
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Thiruvelmurugan Paramasivam
+Total Assets: 1
+
+1.
+Asset ID: A-24
+Asset Name: Acer Desktop 16GB Headset
+Category: Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Acer India
+Cost: 25,000
+Location: New Office
+Serial Number: 62488E6E-9175-4E46-A38A-EE79DAD4BE1B
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Time
+Total Assets: 1
+
+1.
+Asset ID: BT-80
+Asset Name: Clock
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 300
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Total Office
+Total Assets: 5
+
+1.
+Asset ID: AM-42
+Asset Name: CCTV Camera (3)
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Jk Infotech
+Cost: 7,200
+Location: Regional Office
+Serial Number: K77056100,K73692225,KB3024199,BC7556774
+Remarks: -
+Status: In Use
+
+2.
+Asset ID: AN-43
+Asset Name: Wifi Router (2)
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: Jio,Bsnl,
+Cost: 4,000
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+3.
+Asset ID: AX-53
+Asset Name: 14 w Led Bulb (12)
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: V.M Electricals
+Cost: 1,950
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+4.
+Asset ID: AY-54
+Asset Name: 20 W Battern Led Tube Light (4)
+Category: Electrical Hardware
+Purchase Date: 31-Mar-2025
+Vendor: V.M Electricals
+Cost: 600
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+5.
+Asset ID: BH-69
+Asset Name: Steel Water Bottle(7)
+Category: Stainless Steel
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 1,600
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Vishnuraj Selvaraj
+Total Assets: 1
+
+1.
+Asset ID: F-28
+Asset Name: Dell Laptop 8GB / Mouse
+Category: Laptop/Hardware
+Purchase Date: 05-Jun-2025
+Vendor: KB System
+Cost: 21,500
+Location: New Office
+Serial Number: DE9492D1-FCC0-42E1-8DB0-16A603C920C1
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Water
+Total Assets: 2
+
+1.
+Asset ID: BQ-78
+Asset Name: water can bottom (2)
+Category: Kitchen Item
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 300
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: Need Bottom buying Date (27-Jun-2025)
+Status: In Use
+
+2.
+Asset ID: BS-79
+Asset Name: 20 liter water can (3)
+Category: Kitchen Item
+Purchase Date: 31-Mar-2025
+Vendor: No
+Cost: 450
+Location: Regional Office
+Serial Number: Not Serial Number
+Remarks: -
+Status: In Use
+
+--------------------------------------------------
+
+Employee: Unassigned
+Total Assets: 27
+
+1.
+Asset ID: -
+Asset Name: Zep Headset
+Category: -
+Purchase Date: 01-Jul-2025
+Vendor: -
+Cost: -
+Location: -
+Serial Number: -
+Remarks: -
+Status: Unknown
+
+2.
+Asset ID: D - 24
+Asset Name: ZEB Headset
+Category: Hardware
+Purchase Date: 23-Mar-2025
+Vendor: KB System
+Cost: -
+Location: -
+Serial Number: HA90231323
+Remarks: -
+Status: Unknown
+
+3.
+Asset ID: D-01
+Asset Name: Finger Headset
+Category: -
+Purchase Date: 21-Nov-2025
+Vendor: KB System
+Cost: -
+Location: -
+Serial Number: -
+Remarks: -
+Status: Unknown
+
+4.
+Asset ID: D-02
+Asset Name: Fingers Headset
+Category: Hardware
+Purchase Date: 01-Jul-2025
+Vendor: KB System
+Cost: -
+Location: -
+Serial Number: -
+Remarks: -
+Status: Unknown
+
+5.
+Asset ID: D-03
+Asset Name: Finger Headset
+Category: Hardware
+Purchase Date: 27-May-2026
+Vendor: KB System
+Cost: 1,250
+Location: -
+Serial Number: -
+Remarks: -
+Status: Unknown
+
+6.
+Asset ID: D-04
+Asset Name: Finger Headset
+Category: Hardware
+Purchase Date: 06-Nov-2025
+Vendor: KB System
+Cost: -
+Location: -
+Serial Number: HA90231323
+Remarks: -
+Status: Unknown
+
+7.
+Asset ID: D-05
+Asset Name: Zep Headset
+Category: Hardware
+Purchase Date: 02-Oct-2025
+Vendor: KB System
+Cost: -
+Location: -
+Serial Number: -
+Remarks: -
+Status: Unknown
+
+8.
+Asset ID: D-06
+Asset Name: Zep Headset
+Category: Hardware
+Purchase Date: 01-Jul-2025
+Vendor: KB System
+Cost: -
+Location: -
+Serial Number: HA90231323
+Remarks: -
+Status: Unknown
+
+9.
+Asset ID: D-06
+Asset Name: Fingers Headset
+Category: Hardware
+Purchase Date: 27-May-2026
+Vendor: KB System
+Cost: 1,250
+Location: New Office
+Serial Number: -
+Remarks: -
+Status: Unknown
+
+10.
+Asset ID: D-07
+Asset Name: Zep Headset
+Category: Hardware
+Purchase Date: 01-Jul-2025
+Vendor: KB System
+Cost: -
+Location: -
+Serial Number: HA90231323
+Remarks: -
+Status: Unknown
+
+11.
+Asset ID: D-09
+Asset Name: Fingers Headset
+Category: Hardware
+Purchase Date: 23-Jun-2025
+Vendor: KB System
+Cost: -
+Location: -
+Serial Number: -
+Remarks: -
+Status: Unknown
+
+12.
+Asset ID: D-10
+Asset Name: Finger Headset
+Category: -
+Purchase Date: 21-Nov-2025
+Vendor: KB System
+Cost: 1,475
+Location: -
+Serial Number: -
+Remarks: -
+Status: Unknown
+
+13.
+Asset ID: D-11
+Asset Name: Finger Headset
+Category: Hardware
+Purchase Date: 23-Dec-2025
+Vendor: KB System
+Cost: 1,475
+Location: -
+Serial Number: -
+Remarks: -
+Status: Unknown
+
+14.
+Asset ID: D-12
+Asset Name: Zep Headset
+Category: Hardware
+Purchase Date: 01-Jul-2025
+Vendor: KB System
+Cost: -
+Location: -
+Serial Number: HA90231323
+Remarks: -
+Status: Unknown
+
+15.
+Asset ID: D-13
+Asset Name: Zep Headset
+Category: Hardware
+Purchase Date: 01-Jul-2025
+Vendor: KB System
+Cost: -
+Location: -
+Serial Number: -
+Remarks: -
+Status: Unknown
+
+16.
+Asset ID: D-14
+Asset Name: Zep Headset
+Category: Hardware
+Purchase Date: 01-Jul-2025
+Vendor: KB System
+Cost: -
+Location: -
+Serial Number: HA90231323
+Remarks: -
+Status: Unknown
+
+17.
+Asset ID: D-15
+Asset Name: Zep Headset
+Category: Hardware
+Purchase Date: 03-Oct-2025
+Vendor: KB System
+Cost: -
+Location: -
+Serial Number: -
+Remarks: -
+Status: Unknown
+
+18.
+Asset ID: D-18
+Asset Name: Finger Headset
+Category: Hardware
+Purchase Date: 01-Jul-2025
+Vendor: KB System
+Cost: -
+Location: -
+Serial Number: HA90231323
+Remarks: -
+Status: Unknown
+
+19.
+Asset ID: D-21
+Asset Name: Zep Headset
+Category: Hardware
+Purchase Date: 01-Jul-2025
+Vendor: KB System
+Cost: -
+Location: -
+Serial Number: HA90231323
+Remarks: -
+Status: Unknown
+
+20.
+Asset ID: D-26
+Asset Name: Finger Headset
+Category: Hardware
+Purchase Date: 27-May-2026
+Vendor: KB System
+Cost: 1,250
+Location: -
+Serial Number: -
+Remarks: -
+Status: Unknown
+
+21.
+Asset ID: D-27
+Asset Name: Zep Headset
+Category: Hardware
+Purchase Date: 01-Jul-2025
+Vendor: KB System
+Cost: -
+Location: -
+Serial Number: -
+Remarks: -
+Status: Unknown
+
+22.
+Asset ID: D-28
+Asset Name: Zep Headset
+Category: Hardware
+Purchase Date: 01-Jul-2025
+Vendor: KB System
+Cost: -
+Location: -
+Serial Number: HA90231323
+Remarks: -
+Status: Unknown
+
+23.
+Asset ID: E-05
+Asset Name: Mouse
+Category: Hardware
+Purchase Date: 02-Oct-2025
+Vendor: KB System
+Cost: -
+Location: -
+Serial Number: -
+Remarks: -
+Status: Unknown
+
+24.
+Asset ID: E-29
+Asset Name: Mouse
+Category: Hardware
+Purchase Date: 18-Jul-2025
+Vendor: KB System
+Cost: -
+Location: -
+Serial Number: 2516APKM7G19
+Remarks: -
+Status: Unknown
+
+25.
+Asset ID: ELECTRICAL ASSETS
+Asset Name: -
+Category: -
+Purchase Date: -
+Vendor: -
+Cost: -
+Location: -
+Serial Number: -
+Remarks: -
+Status: Unknown
+
+26.
+Asset ID: G - 26
+Asset Name: Lenovo 65 adabtor usb type
+Category: Hardware
+Purchase Date: 27-May-2025
+Vendor: KB System
+Cost: -
+Location: -
+Serial Number: -
+Remarks: -
+Status: Unknown
+
+27.
+Asset ID: NEW OFFICE ASSTES
+Asset Name: -
+Category: -
+Purchase Date: -
+Vendor: -
+Cost: -
+Location: -
+Serial Number: -
+Remarks: -
+Status: Unknown
